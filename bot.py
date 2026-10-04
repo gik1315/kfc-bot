@@ -6,8 +6,8 @@ from aiogram.filters import CommandStart, CommandObject
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton, WebAppInfo
 
 API_TOKEN = os.environ["BOT_TOKEN"]
-WEBAPP_URL = "https://luvwnqw-jpg.github.io/kfc-gap-webapp/"
-ALLOWED_ORIGIN = "https://luvwnqw-jpg.github.io"
+WEBAPP_URL = "https://gik1315.github.io/kfc-gap-webapp/"
+ALLOWED_ORIGIN = "https://gik1315.github.io"
 PORT = int(os.environ.get("PORT", 8080))
 
 logging.basicConfig(level=logging.INFO)
